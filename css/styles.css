@@ -1,0 +1,111 @@
+body{
+  font-size: 16px;
+}
+
+/* Header-contents Area Style */
+#header-nav {
+    box-shadow: 0 0 10px black;
+    border-radius: 0;
+    border: 0;
+    background-color: #A4A4A4;
+}
+
+#header-nav button {
+    margin-top: 20px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #A4A4A4;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #424242;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 80px;
+    height: 80px;
+    padding-top: 0;
+}
+
+/* Logo Text Style */
+.navbar-brand h1 {
+    color: black;
+    font-weight: 900;
+    font-size: 1.8em;
+    margin-left: 20px;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 2px 2px 2px white;
+}
+
+
+/* Mobile-size Hamburger Button Style */
+
+#nav-list {
+    background-color: #E6E6E6;
+    
+}
+
+#nav-list a {
+    border: solid 1px #585858;
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #D8CEF6;
+}
+
+
+/* Main-contents Style */
+body {
+    font-size: 15px;
+    color: #1a1a1a;
+    background-color: #F2F2F2;
+}
+
+#main-content {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+/* Card Section Style */
+#we-card, #do-card, #believe-card {
+    width: 100%;
+    padding: 20px;
+    box-shadow: 0 0 10px black;
+    background-color: #BDBDBD;
+    margin-bottom: 60px;
+}
+
+.nav-item{
+  text-align: center;
+}
+
+.a{
+  
+  text-shadow: 2px 1px gray;
+  font-size: 0.7em;
+}
